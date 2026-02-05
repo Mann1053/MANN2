@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Gujarat Police E-Bandobast",
+  "description": "Secure mobile authentication and duty management system for Gujarat Police officers to manage VIP security (Bandobast) assignments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
